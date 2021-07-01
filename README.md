@@ -37,16 +37,7 @@
  
 </div>
 
-<div id="texto">
 > Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar.
 >
 > <b>Blaise Pascal<b>
-  <button onclick="botao()">Translate</button>
-  <script>
-      function botao(){
-        var id = document.getElementById("texto");
-        console.log(id);
-      }
-  </script>
-</div>
-
+  
