@@ -1,4 +1,3 @@
-### Hi there 👋 Welcome to my profile
 ### I´m João Porfirio
 
 ### Languages and Tools:
