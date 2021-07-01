@@ -9,6 +9,8 @@
   <img width="25em" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">
   <img width="25em" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
   <img width="25em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
+  <img width="25em" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  <img width="25em" src="https://vuejs.org/images/logo.png">
 </div>
 
 <br>
