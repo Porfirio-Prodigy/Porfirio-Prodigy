@@ -5,9 +5,10 @@
 #### Languages and Tools:
 
 <div>
-  <img height="20em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
+  <img height="20em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </div>
 
+<br>
 
 <div>
   <a href="https://github.com/ellen2121">
