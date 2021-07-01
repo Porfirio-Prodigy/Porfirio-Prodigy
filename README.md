@@ -32,7 +32,7 @@
   
   <a href="https://www.instagram.com/joaoporfirio6431/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-porfirio-1209831b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://web.digitalinnovation.one/users/joaoporfirio00?tab=achievements" target="_blank"><img height="30em" src="https://play-lh.googleusercontent.com/ARhIgOVW2qN3zKv1i6GqQNyOBR5okA5QaidO5NjZ2fT7jaBMa8BLI1yMOh2JSf15Sjk" target="_blank"></a>
+  <a href="https://web.digitalinnovation.one/users/joaoporfirio00?tab=achievements" target="_blank"><img height="30em" src="https://hermes.digitalinnovation.one/site/images/logo-white.png" target="_blank"></a>
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
