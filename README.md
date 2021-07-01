@@ -2,7 +2,8 @@
 
 I live in 🇧🇷, northeast 😎 🏖️
 
-> Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar
+> Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar.
+
 > *Blaise Pascal*
 
 <!--
