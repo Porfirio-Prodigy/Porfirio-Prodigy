@@ -19,9 +19,9 @@
  
 </div>
 
-> Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar.
+> <p style="color: white">Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar.
 >
-> <b>Blaise Pascal<b>
+  > <b>Blaise Pascal<b></p>
 
 <!--
 **Porfirio-Prodigy/Porfirio-Prodigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
