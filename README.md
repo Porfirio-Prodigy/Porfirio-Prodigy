@@ -5,6 +5,7 @@
 <div>
   <img width="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png">
   <img width="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+  <img height="25em" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img height="25em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png">
   <img width="25em" src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png">
   <img height="25em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -36,19 +37,5 @@
 
 > Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar.
 >
-> <p style="color: white; align-text: center;"><b>Blaise Pascal<b></p>
+> <b>Blaise Pascal<b>
 
-<!--
-**Porfirio-Prodigy/Porfirio-Prodigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
