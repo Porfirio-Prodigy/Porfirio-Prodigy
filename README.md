@@ -8,8 +8,6 @@
   <img height="25em" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img width="30em" src="https://camo.githubusercontent.com/c10df2e24d96391a122aba452543d32b6291633148f482dc6e21452007e34b56/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67">
   <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
-  <img height="25em" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
-  <img width="25em" src="https://vuejs.org/images/logo.png">
   <img height="25em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png">
   <img width="25em" src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png">
   <img height="25em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
