@@ -8,7 +8,6 @@
   <img height="25em" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img width="30em" src="https://camo.githubusercontent.com/c10df2e24d96391a122aba452543d32b6291633148f482dc6e21452007e34b56/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67">
   <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
-  <img height="25em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png">
   <img width="25em" src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png">
   <img height="25em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img width="25em" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">
@@ -30,7 +29,7 @@
   
   <a href="https://www.instagram.com/joaoporfirio6431/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-porfirio-1209831b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://web.digitalinnovation.one/users/joaoporfirio00?tab=achievements" target="_blank"><img height="30em" src="https://hermes.digitalinnovation.one/site/images/logo-white.png" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
