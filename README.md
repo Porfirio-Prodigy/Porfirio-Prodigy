@@ -14,7 +14,7 @@
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy?theme=chartreuse-dark" width="300em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy&theme=chartreuse-dark" width="300em"/>
 <br>
 
 <div>
