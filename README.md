@@ -14,7 +14,7 @@
 </div>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy)](https://github.com/Porfirio-Prodigy/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy" width="180em"/>
 <br>
 
 <div>
