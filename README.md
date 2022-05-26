@@ -14,12 +14,12 @@
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy" width="300em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy?theme=chartreuse-dark" width="300em"/>
 <br>
 
 <div>
   <a href="https://github.com/Porfirio-Prodigy">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Porfirio-Prodigy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Porfirio-Prodigy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio-Prodigy&&layout=compact&hide=shell&theme=midnight-purple"/>
 
   <img align="center" width="148" height="180" src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/source.gif">
