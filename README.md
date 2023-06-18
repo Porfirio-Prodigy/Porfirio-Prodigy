@@ -6,7 +6,6 @@
   <img width="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png">
   <img width="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
   <img height="25em" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
-  <img width="30em" src="https://camo.githubusercontent.com/c10df2e24d96391a122aba452543d32b6291633148f482dc6e21452007e34b56/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67">
   <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
   <img height="25em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img width="25em" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
